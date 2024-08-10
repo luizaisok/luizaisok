@@ -2,7 +2,6 @@
 
 - ![icons8-programa-12](https://github.com/user-attachments/assets/99898980-331d-4860-a496-f945e490a939) Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo
 - ![icons8-mesa-de-criação-12](https://github.com/user-attachments/assets/436be666-7028-4cae-b430-924ff08e0e97) Em busca de Estágio
-- ![icons8-livros-12](https://github.com/user-attachments/assets/ecba9737-a401-474b-823e-853621998e66) Estudando Java
 
 Conheça meu LinkedIn: ![icons8-linkedin-12](https://github.com/user-attachments/assets/d59504a3-5bc3-4697-b5fa-dd2c4630bdf8) [Luiza Mariana](https://www.linkedin.com/in/luiza-mariana-9a6a74286/)
 
