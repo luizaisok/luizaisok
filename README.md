@@ -1,10 +1,14 @@
-## <div align="center"> ![icons8-pixel-star-16](https://github.com/user-attachments/assets/dbf31ca2-39d9-4165-b4b9-5986b7ba4d8b) Bem Vindo(a)! ![icons8-pixel-star-16](https://github.com/user-attachments/assets/dbf31ca2-39d9-4165-b4b9-5986b7ba4d8b) </div>
+## <div align="center"> Olá, meu nome é Luiza! </div>
 
-📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo <br>
-💻 Estagiária em Gestão de Projetos.
+### Formação / Experiência <img width="14" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-books-literature-flaticons-lineal-color-flat-icons-31.png" alt="external-books-literature-flaticons-lineal-color-flat-icons-31"/>
+
+- Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo
+- Estagiária em Gestão de Projetos
+- Futura Desenvolvedora Front-End
+
 ##
 
-### Tecnologias que tenho maior afinidade
+### Tecnologias que tenho maior afinidade <img width="14" src="https://img.icons8.com/office/40/pixel-star.png" alt="pixel-star"/> 
  
 <p>
   <img src="https://skillicons.dev/icons?i=html" width="40"/> &nbsp;
@@ -23,8 +27,8 @@
 ## Contato
  
 <p>
-  <a href="https://www.linkedin.com/in/luiza-mariana-9a6a74286/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> &nbsp;
-  <a href="mailto:luizamarianahg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/luiza-mariana-9a6a74286/"><img width="32" src="https://img.icons8.com/stickers/100/new-post.png" alt="new-post"/></a> &nbsp;
+  <a href="mailto:luizamarianahg@hotmail.com"><img width="32" src="https://img.icons8.com/stickers/100/linkedin.png" alt="linkedin"/></a>
 </p>
 
 
