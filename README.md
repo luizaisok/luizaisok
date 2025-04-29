@@ -27,8 +27,8 @@
 ## Contato
  
 <p>
-  <a href="https://www.linkedin.com/in/luiza-mariana-9a6a74286/"><img width="32" src="https://img.icons8.com/stickers/100/new-post.png" alt="new-post"/></a> &nbsp;
-  <a href="mailto:luizamarianahg@hotmail.com"><img width="32" src="https://img.icons8.com/stickers/100/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:luizamarianahg@hotmail.com"><img width="32" src="https://img.icons8.com/stickers/100/new-post.png" alt="new-post"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/luiza-mariana-9a6a74286/"><img width="32" src="https://img.icons8.com/stickers/100/linkedin.png" alt="linkedin"/></a>
 </p>
 
 
