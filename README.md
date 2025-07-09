@@ -1,27 +1,25 @@
-## <div align="center"> Olá, meu nome é Luiza! </div>
+<h2 align="center">Olá! 👋</h2>
 
-### Formação / Experiência <img width="14" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-books-literature-flaticons-lineal-color-flat-icons-31.png" alt="external-books-literature-flaticons-lineal-color-flat-icons-31"/>
+#### Meu nome é Luiza e sou estagiária em Gestão de Projetos de Software com interesse em seguir em Desenvolvimento Front-end.
 
-- Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo
-- Estagiária em Gestão de Projetos
-- Futura Desenvolvedora Front-End
+### Formação / Experiência 
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo
+- 💼 Estagiária em Gestão de Projetos
+- 🌱 Iniciando na área de Desenvolvimento Front-End
 
 ##
 
 ### Tecnologias que tenho maior afinidade <img width="14" src="https://img.icons8.com/office/40/pixel-star.png" alt="pixel-star"/> 
  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
 </p>
 
 #### Outras Tecnologias 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php" width="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=php,mysql,java" />
 </p>
 
 ## Contato
@@ -33,4 +31,6 @@
 
 
 
-##### <div align="right"> ![icons8-pixel-cat-24](https://github.com/user-attachments/assets/40bd5b19-5192-43d9-ab76-284832f732c7) </div>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/40bd5b19-5192-43d9-ab76-284832f732c7" width="40" alt="pixel cat" />
+</p>
