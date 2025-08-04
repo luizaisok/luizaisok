@@ -5,7 +5,6 @@
 ### Formação / Experiência 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo
-- 💼 Estagiária em Gestão de Projetos
 - 🌱 Iniciando na área de Desenvolvimento Front-End
 
 ##
