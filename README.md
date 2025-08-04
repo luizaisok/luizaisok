@@ -1,6 +1,6 @@
 <h2 align="center">Olá! 👋</h2>
 
-#### Meu nome é Luiza e sou estagiária em Gestão de Projetos de Software com interesse em seguir em Desenvolvimento Front-end.
+#### Meu nome é Luiza e tenho interesse em seguir em Desenvolvimento Front-end.
 
 ### Formação / Experiência 
 
