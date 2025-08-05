@@ -9,7 +9,7 @@
   />
 </p>
 
-<p align="center">Meu nome é Luiza, gosto de cookies, Minecraft, dançar e <s>de deixar sites bonitinhos</s> Desenvolvimento Web. Atualmente estou estudando tecnologias utilizadas em Front para me tornar uma <strong>Web Developer!</strong></p>
+<p align="center">Meu nome é Luiza, gosto de cookies, Minecraft, dançar e de <s>deixar sites bonitinhos</s> Desenvolvimento Web. Atualmente estou estudando tecnologias utilizadas em Front para me tornar uma <strong>Web Developer!</strong></p>
 
 ##
 
