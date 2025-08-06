@@ -19,8 +19,8 @@
 - 🌱 Iniciando na área de Desenvolvimento Front-End
   
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaisok&hide=html&layout=compact&theme=default" alt="luizaisok" />
+  <a href="https://github.com/luizaisok/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaisok&hide=html&layout=compact" alt="luizaisok" />
   </a>
 </p>
 
